@@ -1,0 +1,4 @@
+C:/Users/hubi8/OneDrive/Pulpit/cmake1/build/CMakeFiles/cmake1.dir
+C:/Users/hubi8/OneDrive/Pulpit/cmake1/build/CMakeFiles/PACKAGE.dir
+C:/Users/hubi8/OneDrive/Pulpit/cmake1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hubi8/OneDrive/Pulpit/cmake1/build/CMakeFiles/ZERO_CHECK.dir

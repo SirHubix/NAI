@@ -1,0 +1,10 @@
+^C:\USERS\HUBI8\ONEDRIVE\PULPIT\CMAKE1\BUILD\CMAKEFILES\098EACB26CBB33B2080574F784307830\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hubi8/OneDrive/Pulpit/cmake1 -BC:/Users/hubi8/OneDrive/Pulpit/cmake1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hubi8/OneDrive/Pulpit/cmake1/build/cmake1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

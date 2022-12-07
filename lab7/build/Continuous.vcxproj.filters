@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hubi8\OneDrive\Pulpit\cmake1\build\CMakeFiles\098eacb26cbb33b2080574f784307830\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hubi8\OneDrive\Pulpit\cmake1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\hubi8\OneDrive\Pulpit\cmake1\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DC4D5192-7769-32A5-8417-69CC3A1131F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
