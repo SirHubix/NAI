@@ -1,0 +1,3 @@
+C:/Users/hubi8/CLionProjects/ocvdemo/cmake-build-debug/CMakeFiles/ocvdemo.dir
+C:/Users/hubi8/CLionProjects/ocvdemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hubi8/CLionProjects/ocvdemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
